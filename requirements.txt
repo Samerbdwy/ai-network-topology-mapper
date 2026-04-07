@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+ping3
+networkx
+plotly
+numpy
