@@ -44,7 +44,8 @@ Works on any local network you're connected to.
 
 ## 🎥 Demo
 
-[Demo Video]((https://drive.google.com/file/d/1tb6QOivDVjlwHPM4ElQqxua7sOILGhke/view?usp=sharing))
+[Demo Video](https://drive.google.com/file/d/1tb6QOivDVjlwHPM4ElQqxua7sOILGhke/view?usp=sharing)
+
 
 ---
 
