@@ -46,14 +46,6 @@ Works on any local network you're connected to.
 
 [Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-**Test Cases Demonstrated:**
-
-| Test Case | Network | Result |
-|-----------|---------|--------|
-| Home Network | `192.168.1.0/24` | 4-10 devices detected |
-| Empty Subnet | `10.0.0.0/24` | 0 devices (graceful handling) |
-| Invalid Input | `999.999.999.0/24` | Error message, no crash |
-
 ---
 
 ## 🎓 What This Demonstrates
